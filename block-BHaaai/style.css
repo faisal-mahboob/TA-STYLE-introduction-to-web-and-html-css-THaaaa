@@ -1,0 +1,18 @@
+body {
+    background-color:lightblue;
+}
+
+.head {
+    color:red;
+}
+
+#headerone {
+    text-align:center;
+}
+
+.secstyle {
+    background-color:black;
+    color:white;
+    text-align:center;
+    padding:20px;
+}
