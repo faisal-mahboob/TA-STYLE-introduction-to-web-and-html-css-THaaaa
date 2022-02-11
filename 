@@ -1,0 +1,41 @@
+[33mcommit bd9552dcda56319a80fe24d3e9330f951012a1ba[m[33m ([m[1;36mHEAD -> [m[1;32mblock-BHaaag[m[33m)[m
+Author: Faisal Mahboob <faisal.mahboob2@gmail.com>
+Date:   Thu Feb 10 20:10:59 2022 -0500
+
+    Created resume page
+
+[33mcommit 2fbb355d1bcc0f08bcdbc898b6f188934eaf5b1d[m[33m ([m[1;31morigin/block-BHaaag[m[33m)[m
+Author: Faisal Mahboob <81893782+faisal-mahboob@users.noreply.github.com>
+Date:   Wed Feb 9 23:58:22 2022 -0500
+
+    Add workflow: block-BHaaag
+
+[33mcommit 7a02c498c2db3ceccdd2c3bd44cc85870b376078[m
+Author: Prashant Abhishek <prashant.abhishek7g@gmail.com>
+Date:   Sat Jul 18 18:49:42 2020 +0530
+
+    Update package.json
+
+[33mcommit 9529860c15acef422cf8c96301a6706d547390ab[m
+Author: Prashant Abhishek <prashant.abhishek7g@gmail.com>
+Date:   Mon Jun 15 15:21:48 2020 +0530
+
+    add package-lock
+
+[33mcommit 16ce2efc4583987cf54b4fa473a9d5a76e60dfd3[m
+Author: Prashant Abhishek <prashant.abhishek7g@gmail.com>
+Date:   Sat Jun 13 14:45:52 2020 +0530
+
+    update block assignment
+
+[33mcommit c1763aa03fd86578cf589d325ef3f1b3c0e315a6[m
+Author: Prashant Abhishek <prashant.abhishek7g@gmail.com>
+Date:   Sat Jun 13 13:40:46 2020 +0530
+
+    add block-BHaaag
+
+[33mcommit aec720410a21298c96530c79be4559bf4341b55b[m
+Author: Prashant Abhishek <prashant.abhishek7g@gmail.com>
+Date:   Sat Jun 13 13:40:45 2020 +0530
+
+    initialize the repo
